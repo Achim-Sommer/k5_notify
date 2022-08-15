@@ -53,6 +53,7 @@ const k5Notifications = {
     messageColor: '#FFF',
     borderRadius: '5px',
     icon: '<i class="fa-solid fa-face-sad-tear"></i>',
+    audio: 'assets/loss.ogg',
   },
   ['k5style']: {
     background:
