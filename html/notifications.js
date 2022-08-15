@@ -31,6 +31,29 @@ const k5Notifications = {
     borderRadius: '5px',
     icon: '<i class="fa-solid fa-circle-info"></i>',
   },
+  ['bet']: {
+    background: 'rgba(20, 100, 219, 0.9)',
+    titleColor: '#FFF',
+    messageColor: '#FFF',
+    borderRadius: '5px',
+    icon: '<i class="fa-solid fa-coins"></i>',
+    audio: 'assets/bet.ogg',
+  },
+  ['won']: {
+    background: 'rgba(139, 136, 16, 0.9)',
+    titleColor: '#FFF',
+    messageColor: '#FFF',
+    borderRadius: '5px',
+    icon: '<i class="fa-solid fa-coins"></i>',
+    audio: 'assets/won.ogg',
+  },
+  ['loss']: {
+    background: 'rgba(140, 17, 17, 0.9)',
+    titleColor: '#FFF',
+    messageColor: '#FFF',
+    borderRadius: '5px',
+    icon: '<i class="fa-solid fa-face-sad-tear"></i>',
+  },
   ['k5style']: {
     background:
       'linear-gradient(270deg, rgba(200,67,148,1) 0%, rgba(53,115,195,1) 100%)',
