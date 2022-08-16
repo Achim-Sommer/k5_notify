@@ -55,17 +55,4 @@ const k5Notifications = {
     icon: '<i class="fa-solid fa-face-sad-tear"></i>',
     audio: 'assets/loss.ogg',
   },
-  ['k5style']: {
-    background:
-      'linear-gradient(270deg, rgba(200,67,148,1) 0%, rgba(53,115,195,1) 100%)',
-    titleColor: '#FFF',
-    messageColor: '#FFF',
-    boldTitle: true,
-    borderRadius: '8px',
-    border: '2px solid rgba(65,196,255,1)',
-    startImage: 'assets/k5_logo.png',
-    icon: '<i class="fa-brands fa-kickstarter"></i>',
-    duration: 4000,
-    audio: 'assets/k5_notify.ogg',
-  },
 }
